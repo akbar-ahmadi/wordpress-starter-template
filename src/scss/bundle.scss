@@ -1,0 +1,25 @@
+@import '../../node_modules/swiper/swiper-bundle.css';
+@import "bootstrap-grid";
+
+@import "apps/apps";
+@import "sections/sections";
+@import "widgets/widgets";
+body {
+  font-family: 'Gilroy', sans-serif;
+  font-weight: normal;
+  line-height: 1.7rem;
+  font-size: 16px;
+
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  text-decoration: none;
+}
+
+ol, ul, dl {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+

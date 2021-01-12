@@ -1,0 +1,12 @@
+@import "../../node_modules/bootstrap/scss/variables";
+
+$_header__weight: 500;
+$_header__height: 100px;
+$_header__mobile_height: 80px;
+$tablet_breakpoint: 768px;
+$_themes: (
+        "light": ("primary": #fff, "accent":#142046),
+        "dark": ("primary": #142046, "accent": #eee),
+        "light_transparent": ("primary": transparent, "accent": #eee),
+        "dark_transparent": ("primary": transparent, "accent": #142046),
+) !default;
