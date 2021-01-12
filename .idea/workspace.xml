@@ -1,7 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="75c771d5-c203-4ee2-a32e-4fa9c808da54" name="Default Changelist" comment="" />
+    <list default="true" id="75c771d5-c203-4ee2-a32e-4fa9c808da54" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/core/actions/enqueue/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/actions/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/actions/menu/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/actions/post-type/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/actions/taxanomy/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/elementor/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/widgets/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/footer.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/functions.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/header.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/single.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/style.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,15 +31,15 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="SCSS File" />
         <option value="JavaScript File" />
+        <option value="SCSS File" />
       </list>
     </option>
   </component>
-  <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
   <component name="ProjectId" id="1mxppG3FNd79MDvz7UPdfH6prSM" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -37,16 +53,17 @@
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\akbar\PhpstormProjects\Wordpress Starter Theme\src\images" />
-      <recent name="C:\Users\akbar\PhpstormProjects\Wordpress Starter Theme\src\js\widgets" />
-      <recent name="C:\Users\akbar\PhpstormProjects\Wordpress Starter Theme\src\js\" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\akbar\PhpstormProjects\Wordpress Starter Theme\core\actions" />
       <recent name="C:\Users\akbar\PhpstormProjects\Wordpress Starter Theme\src\js\widgets" />
       <recent name="C:\Users\akbar\PhpstormProjects\Wordpress Starter Theme\src\scss\widgets" />
       <recent name="C:\Users\akbar\PhpstormProjects\Wordpress Starter Theme\src\scss\sections" />
       <recent name="C:\Users\akbar\PhpstormProjects\Wordpress Starter Theme" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\akbar\PhpstormProjects\Wordpress Starter Theme\src\images" />
+      <recent name="C:\Users\akbar\PhpstormProjects\Wordpress Starter Theme\src\js\widgets" />
+      <recent name="C:\Users\akbar\PhpstormProjects\Wordpress Starter Theme\src\js\" />
     </key>
   </component>
   <component name="ServiceViewManager">
@@ -72,6 +89,7 @@
       <option name="presentableId" value="Default" />
       <updated>1610445277475</updated>
       <workItem from="1610445278603" duration="1759000" />
+      <workItem from="1610459627016" duration="810000" />
     </task>
     <servers />
   </component>
